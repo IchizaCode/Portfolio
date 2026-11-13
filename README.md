@@ -1,4 +1,4 @@
-v# Rajarshi Barman — Portfolio
+## Rajarshi Barman — Portfolio
 
 My personal developer portfolio built using HTML, CSS, and vanilla JavaScript.
 
